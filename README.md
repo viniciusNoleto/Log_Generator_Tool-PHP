@@ -1,2 +1,2 @@
-# LGS
-Log Generator for Server [PHP]
+# LGT
+Log Generator Tool for Web [PHP]
